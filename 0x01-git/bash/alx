@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAecho "ALX is so cool"
+D
 echo "ALX is so cool"
+=======
+echo "ALX School"
+>>>>>>> update_script
